@@ -1,0 +1,248 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+body header {
+  background-color: #F9F6F1;
+}
+body header .navbar .container .dropdowns .dropdown {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  letter-spacing: 0.03em;
+  color: #212121;
+}
+body header .navbar .container .links {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  letter-spacing: 0.03em;
+  color: #212121;
+}
+body header .main {
+  padding: 110px 0 150px 0;
+}
+body header .main .row .left p {
+  font-size: 30px;
+  line-height: 37px;
+  letter-spacing: 0.02em;
+  font-weight: 400;
+  color: #000000;
+  margin-top: 70px;
+  margin-bottom: 30px;
+}
+body header .main .row .left h3 {
+  font-size: 55px;
+  line-height: 67px;
+  letter-spacing: 0.04em;
+  font-weight: 700;
+  color: #000000;
+  margin-bottom: 55px;
+}
+body header .main .row .left button {
+  width: 240px;
+  height: 55px;
+  background: #D7B399;
+  padding: 5px;
+  border-radius: 35px;
+  color: #E5E5E5;
+  transition: 1s;
+}
+body header .main .row .left button:hover {
+  color: #212121;
+  background-color: #D84033;
+}
+body header .main .row .right {
+  position: relative;
+  top: 50px;
+}
+body header .main .row .right img {
+  position: relative;
+  left: -40px;
+}
+body header .main .row .right .first {
+  font-size: 24px;
+  line-height: 29px;
+  text-align: right;
+  letter-spacing: 0.05em;
+  text-decoration-line: line-through;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: #000000;
+  position: absolute;
+  top: 45px;
+  left: 420px;
+}
+body header .main .row .right .second {
+  font-size: 42px;
+  line-height: 51px;
+  text-align: right;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  font-weight: 700;
+  top: 75px;
+  left: 370px;
+  color: #D84033;
+  position: absolute;
+}
+body .order {
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center center;
+  opacity: 0.9;
+  background-image: url("../Images/clark-street-mercantile-qnKhZJPKFD8-unsplash.jpg");
+  padding-top: 80px;
+  padding-bottom: 69px;
+}
+body .order h6 {
+  font-size: 30px;
+  line-height: 37px;
+  font-weight: 700;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #FFFFFF;
+  opacity: 1;
+}
+body .order p {
+  margin-top: 23px;
+  font-weight: 300;
+  font-size: 21px;
+  line-height: 26px;
+  text-align: center;
+  color: #FFFFFF;
+  opacity: 1;
+}
+body .gender {
+  background-color: #F9F6F1;
+}
+body .gender .container .row .col-lg-6 .card {
+  background-color: transparent;
+}
+body .gender .container .row .col-lg-6 .card .card-body .d-flex .col-lg-7 .big {
+  margin-top: 60px;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 29px;
+  letter-spacing: 0.03em;
+  color: #000000;
+}
+body .gender .container .row .col-lg-6 .card .card-body .d-flex .col-lg-7 .big span {
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 29px;
+  letter-spacing: 0.03em;
+  color: #000000;
+}
+body .gender .container .row .col-lg-6 .card .card-body .d-flex .col-lg-7 .little {
+  margin-top: 25px;
+  margin-bottom: 40px;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 20px;
+  color: #000000;
+}
+body .gender .container .row .col-lg-6 .card .card-body .d-flex .col-lg-7 button {
+  width: 80px;
+  height: 30px;
+  background: #D7B399;
+  transition: 1s;
+  border-radius: 25px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+body .gender .container .row .col-lg-6 .card .card-body .d-flex .col-lg-7 button:hover {
+  background-color: #D84033;
+}
+body .gender .container .row .col-lg-6 .card .card-body .d-flex .col-lg-5 {
+  margin-top: 80px;
+}
+body .models {
+  margin-top: 150px;
+  margin-bottom: 152px;
+}
+body .models .container .new {
+  margin-bottom: 100px;
+}
+body .models .container .new h3 {
+  font-size: 36px;
+  line-height: 44px;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+body .models .container .main .col-lg-3 .card .card-body .above {
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 17px;
+  text-align: center;
+  color: #000000;
+}
+body .models .container .main .col-lg-3 .card .card-body .below {
+  font-size: 18px;
+  line-height: 22px;
+  text-align: center;
+  color: #D7B399;
+  font-weight: 700;
+}
+body .models .container .main .col-lg-12 button {
+  margin-top: 100px;
+  width: 220px;
+  height: 55px;
+  background: #D7B399;
+  padding: 5px;
+  border-radius: 35px;
+  color: #E5E5E5;
+  transition: 1s;
+}
+body .models .container .main .col-lg-12 button:hover {
+  color: #212121;
+  background-color: #D84033;
+}
+body footer {
+  width: 100%;
+  background-color: #212121;
+}
+body footer .container .row .col-lg-4 img {
+  margin-top: 65px;
+}
+body footer .container .row .col-lg-2 {
+  margin-bottom: 80px;
+  margin-top: 80px;
+}
+body footer .container .row .col-lg-2 h6 {
+  font-size: 10px;
+  line-height: 12px;
+  display: flex;
+  align-items: center;
+  text-transform: uppercase;
+  color: #FFFFFF;
+  font-weight: 700;
+}
+body footer .container .row .col-lg-2 ul {
+  padding-top: 5px;
+  padding-left: 0;
+}
+body footer .container .row .col-lg-2 ul li {
+  list-style-type: none;
+  font-size: 14px;
+  line-height: 22px;
+  color: #CBCFD4;
+  font-weight: 400;
+  margin-top: 10px;
+}
+
+::-webkit-scrollbar {
+  width: 3px !important;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #484f55 !important;
+}
+
+::-webkit-scrollbar-track {
+  background-color: transparent !important;
+}
+
+/*# sourceMappingURL=index.css.map */
